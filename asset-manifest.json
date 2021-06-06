@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sink-or-swim/static/css/main.45058582.chunk.css",
+    "main.js": "/sink-or-swim/static/js/main.c85463a1.chunk.js",
+    "main.js.map": "/sink-or-swim/static/js/main.c85463a1.chunk.js.map",
+    "runtime-main.js": "/sink-or-swim/static/js/runtime-main.9b240d3c.js",
+    "runtime-main.js.map": "/sink-or-swim/static/js/runtime-main.9b240d3c.js.map",
+    "static/js/2.3ba717d7.chunk.js": "/sink-or-swim/static/js/2.3ba717d7.chunk.js",
+    "static/js/2.3ba717d7.chunk.js.map": "/sink-or-swim/static/js/2.3ba717d7.chunk.js.map",
+    "static/js/3.4f180a51.chunk.js": "/sink-or-swim/static/js/3.4f180a51.chunk.js",
+    "static/js/3.4f180a51.chunk.js.map": "/sink-or-swim/static/js/3.4f180a51.chunk.js.map",
+    "index.html": "/sink-or-swim/index.html",
+    "static/css/main.45058582.chunk.css.map": "/sink-or-swim/static/css/main.45058582.chunk.css.map",
+    "static/js/2.3ba717d7.chunk.js.LICENSE.txt": "/sink-or-swim/static/js/2.3ba717d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b240d3c.js",
+    "static/js/2.3ba717d7.chunk.js",
+    "static/css/main.45058582.chunk.css",
+    "static/js/main.c85463a1.chunk.js"
+  ]
+}
